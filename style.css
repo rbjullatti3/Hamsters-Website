@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  color: blue;
+  text-align: center;
+}
+a:link {
+  background-color: blue;
+  color: red;
+  font-size: 24px;
+}
+
+a:visited {
+  animation: po
+  
+}
+a:hover {
+  
+}
+
+.hamster {
+  background-image: url(hamster.jpeg)
+  
+}
+
+img {
+  width: 200px;
+  height: auto;
+  
+  border-style: solid;
+  border-radius: 10px;  
+}
